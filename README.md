@@ -1,5 +1,7 @@
 # Yuvraj Devesh Srivastava - Developer Portfolio
 
+Open: https://yuvrajdsrivastava-dev.netlify.app/
+
 A modern, responsive personal portfolio built with React.
 
 [![React](https://img.shields.io/badge/React-17.0.2-61DAFB?logo=react&logoColor=white)](https://react.dev/)
@@ -52,8 +54,6 @@ macOS/Linux:
 export NODE_OPTIONS=--openssl-legacy-provider
 npm start
 ```
-
-Open: https://yuvrajdsrivastava-dev.netlify.app/
 
 ### 3. Build production bundle
 

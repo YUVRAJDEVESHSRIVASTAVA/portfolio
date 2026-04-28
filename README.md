@@ -53,7 +53,7 @@ export NODE_OPTIONS=--openssl-legacy-provider
 npm start
 ```
 
-Open: [http://localhost:3000](http://localhost:3000)
+Open: https://yuvrajdsrivastava-dev.netlify.app/
 
 ### 3. Build production bundle
 
